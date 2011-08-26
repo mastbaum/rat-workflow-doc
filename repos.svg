@@ -14,7 +14,7 @@
    id="svg2952"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="intro.svg">
+   sodipodi:docname="repos.svg">
   <defs
      id="defs2954">
     <marker
@@ -984,13 +984,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.93"
      inkscape:cx="380.88447"
-     inkscape:cy="655.8529"
+     inkscape:cy="483.80989"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="958"
      inkscape:window-height="1198"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -1001,7 +1001,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1790,6 +1790,6 @@
          x="366.39511"
          y="973.09058"
          style="text-align:center;text-anchor:middle"
-         id="tspan3480">workflow very simple, as shown in this walktrhough.</tspan></text>
+         id="tspan3480">workflow very simple, as shown in this walkthrough.</tspan></text>
   </g>
 </svg>
