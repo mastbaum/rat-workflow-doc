@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5119"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="workflow3.svg">
+  <defs
+     id="defs5121">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective5127" />
+    <inkscape:perspective
+       id="perspective5137"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5168"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5193"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5225"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5247"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5334"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5362"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5417"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5417-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5593"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3477"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.87"
+     inkscape:cx="363.91819"
+     inkscape:cy="534.56272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1198"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5124">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:39.08374023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="346.74237"
+       y="180.42499"
+       id="text4021"><tspan
+         sodipodi:role="line"
+         id="tspan4023"
+         x="346.74237"
+         y="180.42499">3. Make changes to the code</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4377"
+       width="658.59766"
+       height="46.140316"
+       x="40.75531"
+       y="227.10651" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.46831894px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="58.462471"
+       y="255.117"
+       id="text4889-2"><tspan
+         sodipodi:role="line"
+         x="58.462471"
+         y="255.117"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan4895-6">HACK HACK HACK</tspan><tspan
+         sodipodi:role="line"
+         x="58.462471"
+         y="274.45239"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan4897-4" /></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4377-5"
+       width="658.59766"
+       height="143.53163"
+       x="40.75531"
+       y="350.75867" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.79987621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="44.052696"
+       y="366.08362"
+       id="text4889-20"><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="366.08362"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan4895-2">$ git status</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="380.83347"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5385"># On branch master</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="395.58331"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5387"># Changed but not updated:</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="410.33316"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5389">#   (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="425.08301"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5391">#   (use &quot;git checkout -- &lt;file&gt;...&quot; to discard changes in the working directory)</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="439.83286"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5393">#</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="454.5827"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5395">#        modified:   rat/rat.cc</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="469.33255"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5397">#</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="484.08237"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5399">no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="498.83221"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan4897-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="49.56522"
+       y="337.57959"
+       id="text5405"><tspan
+         sodipodi:role="line"
+         id="tspan5407"
+         x="49.56522"
+         y="337.57959">Summary of your changes:</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4377-5-0"
+       width="658.59766"
+       height="217.44467"
+       x="40.75531"
+       y="570.75867" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.79987621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       x="44.052696"
+       y="586.08362"
+       id="text4889-20-6"><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="586.08362"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan4897-9-0">$ git diff</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="600.83344"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5583">diff --git a/rat/rat.cc b/rat/rat.cc</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="615.58331"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5559">index fd4bf25..7025af9 100644</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="630.33313"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5561">--- a/rat/rat.cc</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="645.08301"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5563">+++ b/rat/rat.cc</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="659.83282"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5565">@@ -67,7 +67,7 @@ int main (int argc, char** argv)</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="674.5827"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5567"> </tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="689.33252"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5569">   parse_command_line(argc, argv);</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="704.0824"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5571"> </tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="718.83221"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5573">-  info &lt;&lt; &quot;This is SNO+ RAT, version &quot; &lt;&lt; RATVERSIONSTR &lt;&lt; &quot;.&quot; &lt;&lt; RATREVISIONSTR &lt;&lt;newline;</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="733.58209"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5575">+  info &lt;&lt; &quot;This is SNOT RAT, version &quot; &lt;&lt; RATVERSIONSTR &lt;&lt; &quot;.&quot; &lt;&lt; RATREVISIONSTR &lt;&lt;newline;</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="748.33191"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5577"> </tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="763.08179"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5579">   //Hostname and machine probing.</tspan><tspan
+         sodipodi:role="line"
+         x="44.052696"
+         y="777.8316"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
+         id="tspan5581">   struct utsname nameinfo;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="49.56522"
+       y="557.57959"
+       id="text5405-0"><tspan
+         sodipodi:role="line"
+         id="tspan5407-5"
+         x="49.56522"
+         y="557.57959">diff:</tspan></text>
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096-0"
+       width="670.55994"
+       height="113.97849"
+       x="34.777168"
+       y="857.67401" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.0433712px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="371.83401"
+       y="889.4845"
+       id="text4021-5"><tspan
+         sodipodi:role="line"
+         x="371.83401"
+         y="889.4845"
+         id="tspan4946">Tip: git is far more powerful than SVN. For more</tspan><tspan
+         sodipodi:role="line"
+         x="371.83401"
+         y="922.0387"
+         id="tspan5624">information on the many git features and subcommands,</tspan><tspan
+         sodipodi:role="line"
+         x="376.18307"
+         y="954.5929"
+         id="tspan5626">see http://help.github.com/git-cheat-sheets/ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.65832901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="18.98266"
+       y="61.987522"
+       id="text3839"><tspan
+         sodipodi:role="line"
+         id="tspan3841"
+         x="18.98266"
+         y="61.987522">github</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.41379929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="50.942177"
+       y="100.36464"
+       id="text3880"><tspan
+         sodipodi:role="line"
+         id="tspan3882"
+         x="50.942177"
+         y="100.36464">Workflow</tspan></text>
+  </g>
+</svg>

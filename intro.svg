@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3490"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs3492">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3498" />
+    <inkscape:perspective
+       id="perspective3508"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3542"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3573"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4479"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4505"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4527"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4549"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4585"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4610"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4635"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4714"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4793"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4859"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4881"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4881-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4954"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5010"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5044"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5072"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5100"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5128"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="403.4481"
+     inkscape:cy="561.70213"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1198"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3495">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096"
+       width="552.68817"
+       height="82.7957"
+       x="79.886917"
+       y="123.70598" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.90781021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="86.653519"
+       y="144.23167"
+       id="text2993"><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="144.23167"
+         id="tspan2997">git is a distributed version control system. github is an online</tspan><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="169.11644"
+         id="tspan3007">service that provides repository hosting and a suite of source</tspan><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="194.00121"
+         id="tspan3011">code management tools for projects that use git.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.65832901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="18.98266"
+       y="61.98753"
+       id="text3839"><tspan
+         sodipodi:role="line"
+         id="tspan3841"
+         x="18.98266"
+         y="61.98753">git(hub) vs. SVN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.41379929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="50.942177"
+       y="100.36465"
+       id="text3880"><tspan
+         sodipodi:role="line"
+         id="tspan3882"
+         x="50.942177"
+         y="100.36465">Introduction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="28.625502"
+       y="242.49896"
+       id="text3075"><tspan
+         sodipodi:role="line"
+         id="tspan3077"
+         x="28.625502"
+         y="242.49896">No version control:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="28.625502"
+       y="454.64307"
+       id="text3075-6"><tspan
+         sodipodi:role="line"
+         id="tspan3077-5"
+         x="28.625502"
+         y="454.64307">SVN version control:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="30.980381"
+       y="675.3573"
+       id="text3075-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan3077-5-8"
+         x="30.980381"
+         y="675.3573">git version control with github:</tspan></text>
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,582.69377 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96816 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g4493"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,78.50634)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135361"
+       y="269.48679"
+       id="text2993-6"><tspan
+         sodipodi:role="line"
+         x="84.135361"
+         y="269.48679"
+         id="tspan3011-4">Revision tracking: Arcane folder numbering schemes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135361"
+       y="304.71164"
+       id="text2993-6-3"><tspan
+         sodipodi:role="line"
+         x="84.135361"
+         y="304.71164"
+         id="tspan3011-4-1">Code sharing: Email, scp, snail mail printout</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135361"
+       y="339.93652"
+       id="text2993-6-3-4"><tspan
+         sodipodi:role="line"
+         x="84.135361"
+         y="339.93652"
+         id="tspan3011-4-1-9">Collaborative development tools: Email/Gchat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135361"
+       y="375.16141"
+       id="text2993-6-3-4-2"><tspan
+         sodipodi:role="line"
+         x="84.135361"
+         y="375.16141"
+         id="tspan3011-4-1-9-0">Bug tracking: Email, sticky notes</tspan></text>
+    <g
+       id="g4493-6"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,113.73122)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-8"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-9"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4493-66"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,148.95609)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-4"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-95"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4493-4"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,184.18097)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-87"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-1"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="484.35852"
+       id="text2993-6-2"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="484.35852"
+         id="tspan3011-4-2">Revision tracking: Snapshots of code numbered sequentially</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="519.58337"
+       id="text2993-6-3-6"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="519.58337"
+         id="tspan3011-4-1-1">Code sharing: Email, scp, ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="554.80829"
+       id="text2993-6-3-4-0"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="554.80829"
+         id="tspan3011-4-1-9-6">Collaborative development tools: email/Gchat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="590.03314"
+       id="text2993-6-3-4-2-1"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="590.03314"
+         id="tspan3011-4-1-9-0-5">Bug tracking: Trac tickets</tspan></text>
+    <g
+       id="g4493-6-9"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,328.60296)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-8-4"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-9-9"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4493-66-0"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,363.82783)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-4-9"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-95-1"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,820.93919 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602-1"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="704.99152"
+       id="text2993-6-2-5"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="704.99152"
+         id="tspan3011-4-2-9">Revision tracking: changesets numbered, can be exchanged between</tspan><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="726.90558"
+         id="tspan4849">                         repositories, picked and chosen individually</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="757.8288"
+       id="text2993-6-3-6-7"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="757.8288"
+         id="tspan3011-4-1-1-7">Code sharing: git push/pull (pull requests)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="793.05371"
+       id="text2993-6-3-4-0-6"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="793.05371"
+         id="tspan3011-4-1-9-6-7">Collaborative development tools: github code commenting system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="828.27856"
+       id="text2993-6-3-4-2-1-3"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="828.27856"
+         id="tspan3011-4-1-9-0-5-6">Bug tracking: github Issues</tspan></text>
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,697.65213 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602-1-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,785.71431 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602-1-2"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,750.48944 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602-1-3"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g4998"
+       transform="matrix(0.88062188,0,0,0.88062188,-9.7306603,53.72232)">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3602-8"
+         d="m 54.967329,480.67943 c 1.241556,2.02445 5.576753,5.82171 6.454447,7.64374 3.748761,-5.1887 5.082829,-5.64166 9.694864,-10.00872 5.281373,-4.87151 8.072347,-6.36416 10.305116,-7.5885"
+         style="fill:none;stroke:#ff5b00;stroke-width:4.90134716;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         id="path4996"
+         d="m 82.771536,479.70301 15.355805,0"
+         style="fill:none;stroke:#ff5b00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="410.38626"
+       id="text2993-6-3-4-2-5"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="410.38626"
+         id="tspan3011-4-1-9-0-0">Repository backup: None, probably</tspan></text>
+    <g
+       id="g4493-4-9"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,219.40584)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-87-6"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-1-3"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="625.258"
+       id="text2993-6-3-4-2-1-6"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="625.258"
+         id="tspan3011-4-1-9-0-5-1">Repository backup: Do it yourself</tspan></text>
+    <path
+       style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 52.764722,856.16406 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       id="path3602-1-15"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="84.135368"
+       y="863.50342"
+       id="text2993-6-3-4-2-1-3-9"><tspan
+         sodipodi:role="line"
+         x="84.135368"
+         y="863.50342"
+         id="tspan3011-4-1-9-0-5-6-8">Repository backup: automatic with github</tspan></text>
+    <g
+       id="g4493-66-0-4"
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,434.27758)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-4-9-8"
+         d="m 274.27555,427.0228 33.36378,-33.36378"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4431-0-95-1-1"
+         d="M 307.63933,427.0228 274.27555,393.65902"
+         style="fill:none;stroke:#af0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096-0"
+       width="618.68817"
+       height="107.7957"
+       x="64.886917"
+       y="900.70599" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.90781021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="374.6535"
+       y="921.23169"
+       id="text2993-3"><tspan
+         sodipodi:role="line"
+         x="374.6535"
+         y="921.23169"
+         id="tspan5161">In SVN, there is one repository and users have ``working copies''</tspan><tspan
+         sodipodi:role="line"
+         x="374.6535"
+         y="946.11646"
+         id="tspan5175">between which there is no way to share patches. With git, everything</tspan><tspan
+         sodipodi:role="line"
+         x="374.65347"
+         y="971.00122"
+         id="tspan5177">is a repository and code is easily shared between peers. Individual</tspan><tspan
+         sodipodi:role="line"
+         x="374.6535"
+         y="995.88599"
+         id="tspan5195">commits can be pushed and pulled from one repository to another.</tspan></text>
+  </g>
+</svg>
