@@ -1,0 +1,40 @@
+<h1>git+github vs git+Trac</h1>
+
+<table border cellpadding=10>
+<tr>
+ <th></th>
+ <th>github</th>
+ <th>git+Trac</th>
+</tr>
+<tr>
+ <th>Configuration</th>
+ <td>None</td>
+ <td>Find or set up server on site, install git, create accounts for all contributors</td>
+</tr>
+<tr>
+ <th>Read-only checkout</th>
+ <td><tt>$ git clone http://github.com/cenpa/rat</tt></td>
+ <td><tt>$ git clone http://snolab.ca/rat</tt></td>
+</tr>
+<tr>
+ <th>Developer Forks</th>
+ <td>Press 'fork' button</td>
+ <td>Users log into server, clone master repo locally with <tt>git clone</tt>
+</tr>
+<tr>
+ <th>SCM on forks</th>
+ <td>Issue tracking, repository browser, view of all other forks with ability to pull any changes online</td>
+ <td>None, manually set up an instance of Trac for every repository of every developer, if desired.</td>
+</tr>
+<tr>
+ <th>Sharing between forks</th>
+ <td>View changes on other forks and pull them in online. Press pull request button to ask for another developer to merge in your changes.</td>
+ <td>Log into server and browse logs of other repositories with <tt>git log</tt> on the command line. Use git CLI tools (add new remote, fetch, merge) to pull in changes. Email collaborator with a list of commits to ask to have them pulled into another repo.</td>
+</tr>
+<tr>
+ <th>Code review and merging to "trunk"</th>
+ <td>Click "pull request" button. CIC gets a page with all commits and diffs. If approved, one button merges changes. If not, comments can be made on individial commits, lines of code, or overall.</td>
+ <td>Due to overhead of merging, users push directly to the master repository with (git add remote), git push, and resolve any conflicts.</td>
+</tr>
+</table>
+
