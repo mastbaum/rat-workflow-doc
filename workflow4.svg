@@ -83,7 +83,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.15"
      inkscape:cx="375.63457"
-     inkscape:cy="902.6087"
+     inkscape:cy="241.73913"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -271,7 +271,7 @@
          x="44.052696"
          y="836.5827"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
-         id="tspan6498">To git@github.com:mastbaum/rat.git</tspan><tspan
+         id="tspan6498">To git@github.com:[your username]/rat.git</tspan><tspan
          sodipodi:role="line"
          x="44.052696"
          y="851.33252"

@@ -982,17 +982,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93"
-     inkscape:cx="380.88447"
-     inkscape:cy="483.80989"
+     inkscape:zoom="1.75"
+     inkscape:cx="390.1133"
+     inkscape:cy="691.45778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="958"
+     inkscape:window-width="1918"
      inkscape:window-height="1198"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-37.714286,608"
+       id="guide4808" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2957">
     <rdf:RDF>
@@ -1251,34 +1258,38 @@
          sodipodi:role="line"
          id="tspan3077-5-8"
          x="30.980381"
-         y="599.3573">git version control (example):</tspan></text>
+         y="599.3573">github version control (example):</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-4"
        width="93.043701"
-       height="23.482456"
+       height="42.3396"
        x="32.660099"
-       y="738.57898" />
+       y="730.57898" />
     <text
        xml:space="preserve"
-       style="font-size:16.25236511px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="39.564053"
-       y="753.74127"
+       style="font-size:16.25236511px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="120.13548"
+       y="745.16986"
        id="text3206-8"><tspan
          sodipodi:role="line"
          id="tspan3208-7"
-         x="39.564053"
-         y="753.74127">Repository</tspan></text>
+         x="120.13549"
+         y="745.16986">Main (CIC)</tspan><tspan
+         sodipodi:role="line"
+         x="120.13548"
+         y="765.48529"
+         id="tspan4804">Repository</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.95822239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="20.062908"
-       y="735.32458"
+       x="28.062908"
+       y="727.32458"
        id="text4051-6"><tspan
          sodipodi:role="line"
          id="tspan4053-1"
-         x="20.062908"
-         y="735.32458">History, authors, etc.</tspan></text>
+         x="28.062908"
+         y="727.32458">History, authors, etc.</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="M 126.25381,740.48084 226.79986,683.73857"
@@ -1298,13 +1309,13 @@
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="234.81352"
+       x="250.81352"
        y="687.72729"
        id="text3206-4-5-7"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7"
-         x="234.81352"
-         y="687.72729">Forked repository</tspan></text>
+         x="250.81352"
+         y="687.72729">Andy's Fork</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-6"
@@ -1315,13 +1326,13 @@
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="234.81352"
+       x="254.81352"
        y="754.40887"
        id="text3206-4-5-7-5"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-6"
-         x="234.81352"
-         y="754.40887">Forked repository</tspan></text>
+         x="254.81352"
+         y="754.40887">Phil's Fork</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-9"
@@ -1332,13 +1343,13 @@
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="234.81352"
+       x="250.81352"
        y="821.09039"
        id="text3206-4-5-7-4"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-8"
-         x="234.81352"
-         y="821.09039">Forked repository</tspan></text>
+         x="250.81352"
+         y="821.09039">Gene's Fork</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="m 126.25381,760.42232 100.54605,56.74227"
@@ -1347,109 +1358,93 @@
     <text
        xml:space="preserve"
        style="font-size:10.95822239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="291.95682"
-       y="838.47375"
+       x="285.95682"
+       y="836.47375"
        id="text4051-6-0"><tspan
          sodipodi:role="line"
          id="tspan4053-1-9"
-         x="291.95682"
-         y="838.47375">Clone including</tspan><tspan
+         x="285.95682"
+         y="836.47375">Forks are clones including</tspan><tspan
          sodipodi:role="line"
-         x="291.95682"
-         y="852.17151"
+         x="285.95682"
+         y="850.17151"
          id="tspan5849">history, authors, etc.</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.83351898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend-9)"
-       d="m 249.63255,696.40158 0,41.35068"
-       id="path5145-5"
-       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend-9)"
        d="m 249.63255,763.0831 0,41.35068"
        id="path5145-5-3"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="257.09042"
-       y="712.21368"
-       id="text5547-1-0"><tspan
-         sodipodi:role="line"
-         x="257.09042"
-         y="712.21368"
-         id="tspan5985">git push</tspan><tspan
-         sodipodi:role="line"
-         x="257.09042"
-         y="724.65448"
-         id="tspan5989">git pull</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4"
-       width="113.40943"
+       width="162.55228"
        height="20.771824"
        x="412.08063"
        y="656.44684" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="418.18765"
+       x="416.18765"
        y="671.05695"
        id="text3206-4-5-7-47"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63"
-         x="418.18765"
-         y="671.05695">Local repository</tspan></text>
+         x="416.18765"
+         y="671.05695">Local Repo (Andy's PC)</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4-1"
-       width="113.40943"
+       width="163.1237"
        height="20.771824"
        x="412.08063"
        y="689.7876" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="418.18765"
+       x="420.18765"
        y="704.39771"
        id="text3206-4-5-7-47-7"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-5"
-         x="418.18765"
-         y="704.39771">Local repository</tspan></text>
+         x="420.18765"
+         y="704.39771">Local Repo (Bill's  PC)</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4-6"
-       width="113.40943"
+       width="163.1237"
        height="20.771824"
        x="412.08063"
        y="739.79877" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="418.18765"
+       x="420.18765"
        y="754.40887"
        id="text3206-4-5-7-47-2"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-1"
-         x="418.18765"
-         y="754.40887">Local repository</tspan></text>
+         x="420.18765"
+         y="754.40887">Local Repo (Phil's PC)</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4-6-7"
-       width="113.40943"
+       width="162.55228"
        height="20.771824"
        x="412.08063"
        y="806.48022" />
-    <text
-       xml:space="preserve"
-       style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="418.18765"
-       y="821.09039"
-       id="text3206-4-5-7-47-2-8"><tspan
-         sodipodi:role="line"
-         id="tspan3208-5-4-7-63-1-5"
-         x="418.18765"
-         y="821.09039">Local repository</tspan></text>
+    <g
+       id="g4810">
+      <text
+         id="text3206-4-5-7-47-2-8"
+         y="821.09039"
+         x="416.18765"
+         style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           y="821.09039"
+           x="416.18765"
+           id="tspan3208-5-4-7-63-1-5"
+           sodipodi:role="line">Local Repo (Gene's PC)</tspan></text>
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
        d="M 350.38157,680.34625 411.97738,666.3491"
@@ -1471,25 +1466,10 @@
        id="path4080-49-7-1-7"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
-       d="m 116.2153,762.33767 c 1.91167,54.34717 53.44563,80.05542 100.02518,96.39854 70.329,17.70809 128.48577,10.80839 195.17608,-32.21079"
+       style="fill:none;stroke:#000000;stroke-width:0.834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend-889)"
+       d="m 117.35816,772.62338 c 1.91167,54.34717 52.30277,69.76971 98.88232,86.11283 70.329,17.70809 128.48577,10.80839 195.17608,-32.21079"
        id="path6418"
        sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.83351898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend-9)"
-       d="m 466.56435,762.5342 0,41.35068"
-       id="path5145-5-0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.83351898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend-9)"
-       d="m 466.56435,712.52307 0,24.68029"
-       id="path5145-5-0-5"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.83351898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
-       d="m 466.56435,687.51749 0,-8.66046"
-       id="path5145-5-0-4"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
@@ -1513,36 +1493,36 @@
        id="rect3204-7-2-9-4-6-7-2"
        width="100.53394"
        height="20.771824"
-       x="590.4538"
+       x="620.4538"
        y="656.44684" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="596.56079"
+       x="626.56079"
        y="671.05695"
        id="text3206-4-5-7-47-2-8-8"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-1-5-9"
-         x="596.56079"
+         x="626.56079"
          y="671.05695">Working copy</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
-       d="m 526.59969,667.98901 62.27347,0.0374"
+       d="m 576.59969,667.98901 42.27347,0.0374"
        id="path4080-49-7-1-8-2"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="532.76837"
-       y="647.27325"
+       x="574.76837"
+       y="636.98755"
        id="text5547-6-7-1"><tspan
          sodipodi:role="line"
-         x="532.76837"
-         y="647.27325"
+         x="574.76837"
+         y="636.98755"
          id="tspan5885-5-5">git checkout</tspan><tspan
          sodipodi:role="line"
-         x="532.76837"
-         y="659.71405"
+         x="574.76837"
+         y="649.42834"
          id="tspan8650">git commit</tspan></text>
     <text
        xml:space="preserve"
@@ -1601,41 +1581,41 @@
     <text
        xml:space="preserve"
        style="font-size:8.5826683px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#006d00;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="413.72238"
-       y="774.65308"
+       x="468.29382"
+       y="775.22449"
        id="text8654-4"><tspan
          sodipodi:role="line"
-         x="413.72238"
-         y="774.65308"
+         x="468.29382"
+         y="775.22449"
          id="tspan8715-8">Peer-to-peer sharing</tspan><tspan
          sodipodi:role="line"
-         x="415.15561"
-         y="785.38141"
-         id="tspan8762">among user repositories </tspan><tspan
+         x="469.72705"
+         y="785.95282"
+         id="tspan8762">among local repositories </tspan><tspan
          sodipodi:role="line"
-         x="413.72238"
-         y="796.10974"
+         x="468.29382"
+         y="796.68115"
          id="tspan8766">is possible</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4-6-7-2-2"
        width="100.53394"
        height="20.771824"
-       x="590.4538"
+       x="620.4538"
        y="689.7876" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="596.56079"
+       x="626.56079"
        y="704.39771"
        id="text3206-4-5-7-47-2-8-8-4"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-1-5-9-0"
-         x="596.56079"
+         x="626.56079"
          y="704.39771">Working copy</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
-       d="m 526.59969,701.32977 62.27347,0.0374"
+       d="m 576.59969,701.32977 42.27347,0.0374"
        id="path4080-49-7-1-8-2-6"
        sodipodi:nodetypes="cc" />
     <text
@@ -1654,60 +1634,38 @@
          id="tspan8847">e.g. on github</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="144.47041"
-       y="683.06763"
+       style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="195.89899"
+       y="686.49615"
        id="text5547-6-7-8"><tspan
          sodipodi:role="line"
-         x="144.47041"
-         y="683.06763"
-         id="tspan5551-8-7-1">git clone</tspan><tspan
+         x="195.89899"
+         y="686.49615"
+         id="tspan5551-8-7-1">github Fork</tspan><tspan
          sodipodi:role="line"
-         x="144.47041"
-         y="695.50842"
-         id="tspan5885-5-3">git pull</tspan><tspan
-         sodipodi:role="line"
-         x="144.47041"
-         y="707.94922"
-         id="tspan8652-1">git push</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:9.95264626px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="474.12381"
-       y="773.50787"
-       id="text5547-6-7-0"><tspan
-         sodipodi:role="line"
-         x="474.12381"
-         y="773.50787"
-         id="tspan5551-8-7-3">git clone</tspan><tspan
-         sodipodi:role="line"
-         x="474.12381"
-         y="785.94867"
-         id="tspan5885-5-4">git pull</tspan><tspan
-         sodipodi:role="line"
-         x="474.12381"
-         y="798.38947"
-         id="tspan8652-0">git push</tspan></text>
+         x="195.89899"
+         y="698.93695"
+         id="tspan8652-1">github Pull Request</tspan></text>
     <rect
        style="opacity:0.2194093;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3204-7-2-9-4-6-7-2-2-9"
        width="100.53394"
        height="20.771824"
-       x="590.4538"
+       x="620.4538"
        y="739.79877" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="596.56079"
+       x="626.56079"
        y="754.40887"
        id="text3206-4-5-7-47-2-8-8-4-3"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-1-5-9-0-3"
-         x="596.56079"
+         x="626.56079"
          y="754.40887">Working copy</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
-       d="m 526.59969,751.34091 62.27347,0.0374"
+       d="m 576.59969,751.34091 42.27347,0.0374"
        id="path4080-49-7-1-8-2-6-8"
        sodipodi:nodetypes="cc" />
     <rect
@@ -1715,26 +1673,26 @@
        id="rect3204-7-2-9-4-6-7-2-2-9-0"
        width="100.53394"
        height="20.771824"
-       x="590.4538"
+       x="620.4538"
        y="806.48022" />
     <text
        xml:space="preserve"
        style="font-size:14.37631989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="596.56079"
+       x="626.56079"
        y="821.09039"
        id="text3206-4-5-7-47-2-8-8-4-3-0"><tspan
          sodipodi:role="line"
          id="tspan3208-5-4-7-63-1-5-9-0-3-4"
-         x="596.56079"
+         x="626.56079"
          y="821.09039">Working copy</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.83351898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-889)"
-       d="m 526.59969,818.02243 62.27347,0.0374"
+       d="m 576.59969,818.02243 42.27347,0.0374"
        id="path4080-49-7-1-8-2-6-8-6"
        sodipodi:nodetypes="cc" />
     <g
        id="g9110"
-       transform="translate(-31.182796,-44.946237)">
+       transform="matrix(1.4328504,0,0,1.4328504,-312.78529,-313.46746)">
       <rect
          y="457.97699"
          x="551.56555"

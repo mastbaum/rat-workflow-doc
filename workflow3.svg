@@ -111,7 +111,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.87"
      inkscape:cx="363.91819"
-     inkscape:cy="534.56272"
+     inkscape:cy="488.58571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -241,7 +241,7 @@
          sodipodi:role="line"
          id="tspan5407"
          x="49.56522"
-         y="337.57959">Summary of your changes:</tspan></text>
+         y="337.57959">See a summary of your changes:</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4377-5-0"
@@ -334,7 +334,7 @@
          sodipodi:role="line"
          id="tspan5407-5"
          x="49.56522"
-         y="557.57959">diff:</tspan></text>
+         y="557.57959">Look at the diff:</tspan></text>
     <rect
        style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5096-0"
