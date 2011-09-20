@@ -129,6 +129,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3385"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -215,48 +222,48 @@
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="48.148151"
-       y="362.73257"
+       y="322.73257"
        id="text2918"><tspan
          sodipodi:role="line"
          id="tspan2920"
          x="48.148151"
-         y="362.73257"
+         y="322.73257"
          style="font-size:28px">A) Visit https://github.com/signup/free</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="48.148151"
-       y="422.73257"
+       y="382.73257"
        id="text2918-6"><tspan
          sodipodi:role="line"
          id="tspan2920-5"
          x="48.148151"
-         y="422.73257"
+         y="382.73257"
          style="font-size:28px">B) Choose a username and password, then click</tspan><tspan
          sodipodi:role="line"
          x="48.148151"
-         y="457.73257"
+         y="417.73257"
          style="font-size:28px"
          id="tspan2958">     ``Create an account''</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="48.148151"
-       y="518.73254"
+       y="478.73254"
        id="text2918-9"><tspan
          sodipodi:role="line"
          x="48.148151"
-         y="518.73254"
+         y="478.73254"
          style="font-size:28px"
          id="tspan2960">C) Visit https://github.com/inbox/new/mastbaum</tspan><tspan
          sodipodi:role="line"
          x="48.148151"
-         y="553.73254"
+         y="513.73254"
          style="font-size:28px"
          id="tspan2964">     to send a message asking for access to the private</tspan><tspan
          sodipodi:role="line"
          x="48.148151"
-         y="588.73254"
+         y="548.73254"
          style="font-size:28px"
          id="tspan2966">     RAT repository</tspan></text>
     <text
@@ -315,5 +322,26 @@
        height="205.01793"
        x="36.001602"
        y="709.72974" />
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096-3"
+       width="666.46942"
+       height="63.36121"
+       x="37.13567"
+       y="608.33588" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.11945915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="373.573"
+       y="632.91064"
+       id="text4021-5"><tspan
+         sodipodi:role="line"
+         x="373.573"
+         y="632.91064"
+         id="tspan4946">Note: Use of ``github for Mac'' is not recommended. If prompted, decline</tspan><tspan
+         sodipodi:role="line"
+         x="373.573"
+         y="658.06"
+         id="tspan3686">the download and follow the instructions provided herein.</tspan></text>
   </g>
 </svg>

@@ -122,6 +122,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3385"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -132,12 +139,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.81"
      inkscape:cx="381.15205"
-     inkscape:cy="496.38218"
+     inkscape:cy="545.7649"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="958"
-     inkscape:window-height="1198"
+     inkscape:window-width="718"
+     inkscape:window-height="898"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -198,78 +205,78 @@
        width="654.24982"
        height="188.74901"
        x="40.75531"
-       y="287.10651" />
+       y="327.10651" />
     <text
        xml:space="preserve"
        style="font-size:15.46831894px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
        x="47.961342"
-       y="310.98035"
+       y="350.98035"
        id="text4889"><tspan
          sodipodi:role="line"
          id="tspan4891"
          x="47.961342"
-         y="310.98035"
+         y="350.98035"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold">$ git clone git@github.com:cenpa/rat.git</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="330.31573"
+         y="370.31573"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4948">remote: Counting objects: 7363, done.</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="349.65115"
+         y="389.65115"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4987">remote: Compressing objects: 100% (2742/2742 (delta 4790)</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="368.98654"
+         y="408.98654"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4991">remote: Total 7563 (delta 4790), reused 7563 (delta 4790)</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="388.32193"
+         y="428.32193"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4995">Receiving objects: 100% (7564/7563), 611.27 MiB | 1.75 MiB/s, done.</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="407.65735"
+         y="447.65735"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4997">Resolving deltas: 100% (4790/4790), done.</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="426.99274"
+         y="466.99274"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4893">$ cd rat</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="446.32812"
+         y="486.32812"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4895">$ ls</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="465.66354"
+         y="505.66354"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4897" /></text>
     <text
        xml:space="preserve"
        style="font-size:15.46831894px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
        x="47.961342"
-       y="464.98035"
+       y="504.98035"
        id="text4889-6"><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="464.98035"
+         y="504.98035"
          style="font-weight:bold;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4897-7">doc rat tools</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.87900734px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="357.86441"
-       y="521.42029"
+       y="573.42029"
        id="text4021-3"><tspan
          sodipodi:role="line"
          x="357.86441"
-         y="521.42029"
+         y="573.42029"
          id="tspan5215">That's it! Build RAT with scons as always.</tspan></text>
     <rect
        style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -277,20 +284,20 @@
        width="498.56818"
        height="63.36121"
        x="125.20033"
-       y="538.09375" />
+       y="590.09375" />
     <text
        xml:space="preserve"
        style="font-size:20.11945915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="373.81052"
-       y="562.66852"
+       y="614.66852"
        id="text4021-5"><tspan
          sodipodi:role="line"
-         x="377.17029"
-         y="562.66852"
+         x="377.17032"
+         y="614.66852"
          id="tspan4944">Tip: you are cloning the entire repository with history, </tspan><tspan
          sodipodi:role="line"
          x="373.81052"
-         y="612.96716"
+         y="639.81787"
          id="tspan4946">so the initial checkout will take longer than with SVN.</tspan></text>
     <text
        xml:space="preserve"
@@ -366,11 +373,11 @@
        xml:space="preserve"
        style="font-size:39.08374023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="356.74237"
-       y="272.42499"
+       y="312.42499"
        id="text4021-9"><tspan
          sodipodi:role="line"
          x="356.74237"
-         y="272.42499"
+         y="312.42499"
          id="tspan10813-3">Clone the RAT repository</tspan></text>
     <rect
        style="opacity:0.0759494;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -383,11 +390,11 @@
        xml:space="preserve"
        style="font-size:30.87900734px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="266.7533"
-       y="671.91412"
+       y="703.91412"
        id="text4021-3-6"><tspan
          sodipodi:role="line"
          x="266.7533"
-         y="671.91412"
+         y="703.91412"
          id="tspan5215-5">To update your copy of RAT,</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -395,22 +402,39 @@
        width="654.24982"
        height="57.884808"
        x="40.75531"
-       y="689.10651" />
+       y="721.10651" />
     <text
        xml:space="preserve"
        style="font-size:15.46831894px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
        x="47.961342"
-       y="712.98035"
+       y="744.98035"
        id="text4889-9"><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="712.98035"
+         y="744.98035"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan4897-4">$ cd rat</tspan><tspan
          sodipodi:role="line"
          x="47.961342"
-         y="732.31573"
+         y="764.31573"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold"
          id="tspan3361">$ git pull</tspan></text>
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096-6"
+       width="496.099"
+       height="36.200718"
+       x="125.66947"
+       y="222.09375" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.11945915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="373.81052"
+       y="246.66852"
+       id="text4021-5-5"><tspan
+         sodipodi:role="line"
+         x="373.81052"
+         y="246.66852"
+         id="tspan4946-9">First, make sure git is installed on your system, then...</tspan></text>
   </g>
 </svg>
