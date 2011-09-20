@@ -89,15 +89,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.66"
      inkscape:cx="369.28481"
-     inkscape:cy="942.7031"
+     inkscape:cy="505.90975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="958"
-     inkscape:window-height="398"
-     inkscape:window-x="960"
+     inkscape:window-width="718"
+     inkscape:window-height="898"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -117,14 +117,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="338.10321"
+       y="298.10321"
        x="120.51009"
        id="image2886"
        height="513.69977"
        width="497.61621"
        xlink:href="file:///home/mastbaum/snoplus/code_quality/github-transition/images/gh-main.png" />
     <image
-       y="870.4986"
+       y="830.4986"
        x="266.13638"
        id="image4017"
        height="84"
@@ -134,14 +134,14 @@
        xml:space="preserve"
        style="font-size:39.08374023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="346.74237"
-       y="240.42499"
+       y="180.42499"
        id="text4021"><tspan
          sodipodi:role="line"
          id="tspan4023"
          x="346.74237"
-         y="240.42499">1. Fork the main RAT repository</tspan></text>
+         y="180.42499">1. Fork the main RAT repository</tspan></text>
     <image
-       y="266.41721"
+       y="226.41721"
        x="86.13636"
        id="image4152"
        height="51.717705"
@@ -153,41 +153,24 @@
        width="32.573715"
        height="16.536844"
        x="467.172"
-       y="413.57849" />
+       y="373.57849" />
     <text
        xml:space="preserve"
        style="font-size:21.08778572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="23.093998"
-       y="1001.9597"
+       y="989.95972"
        id="text4158"><tspan
          sodipodi:role="line"
          id="tspan4160"
          x="23.093998"
-         y="1001.9597">For more information about forks, see http://help.github.com/fork-a-repo/</tspan></text>
+         y="989.95972">For more information about forks, see http://help.github.com/fork-a-repo/</tspan></text>
     <rect
        style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5096-3"
        width="707.84076"
        height="39.36121"
        x="15.755882"
-       y="974.61224" />
-    <text
-       xml:space="preserve"
-       style="font-size:39.08374023px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Andale Mono Italic"
-       x="362.74237"
-       y="171.42499"
-       id="text4021-9"><tspan
-         sodipodi:role="line"
-         id="tspan4023-1"
-         x="362.74237"
-         y="171.42499">If you are contributing code to RAT....</tspan></text>
-    <rect
-       style="opacity:0.0759494;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect5096-4"
-       width="702.19043"
-       height="78.176025"
-       x="19.027487"
-       y="123.59993" />
+       y="962.61224" />
     <text
        xml:space="preserve"
        style="font-size:60.65832901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"

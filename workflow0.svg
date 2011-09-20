@@ -136,7 +136,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
+     inkscape:window-width="958"
      inkscape:window-height="1198"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -365,13 +365,13 @@
     <text
        xml:space="preserve"
        style="font-size:39.08374023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="346.74237"
+       x="356.74237"
        y="272.42499"
        id="text4021-9"><tspan
          sodipodi:role="line"
-         x="346.74237"
+         x="356.74237"
          y="272.42499"
-         id="tspan10813-3">0. Clone the RAT repository</tspan></text>
+         id="tspan10813-3">Clone the RAT repository</tspan></text>
     <rect
        style="opacity:0.0759494;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5096-4"

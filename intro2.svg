@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3490"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="intro2.svg">
+  <defs
+     id="defs3492">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3498" />
+    <inkscape:perspective
+       id="perspective3508"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3542"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3573"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4479"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4505"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4527"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4549"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4585"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4610"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4635"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4660-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4714"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4793"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4859"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4881"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4881-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4954"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5010"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5044"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5072"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5100"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5128"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3186"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3232"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3280"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="408.90912"
+     inkscape:cy="561.70213"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1198"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3495">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5096"
+       width="552.68817"
+       height="82.7957"
+       x="79.886917"
+       y="123.70598" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.90781021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="86.653519"
+       y="144.23167"
+       id="text2993"><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="144.23167"
+         id="tspan2997">git is a distributed version control system. github is an online</tspan><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="169.11644"
+         id="tspan3007">service that provides repository hosting and a suite of source</tspan><tspan
+         sodipodi:role="line"
+         x="86.653519"
+         y="194.00121"
+         id="tspan3011">code management tools for projects that use git.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.65832901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="18.98266"
+       y="61.98753"
+       id="text3839"><tspan
+         sodipodi:role="line"
+         id="tspan3841"
+         x="18.98266"
+         y="61.98753">git(hub) vs. SVN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.41379929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="50.942177"
+       y="100.36465"
+       id="text3880"><tspan
+         sodipodi:role="line"
+         id="tspan3882"
+         x="50.942177"
+         y="100.36465">Introduction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="28.625502"
+       y="242.49896"
+       id="text3075"><tspan
+         sodipodi:role="line"
+         id="tspan3077"
+         x="28.625502"
+         y="242.49896">Why not SVN?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="28.625502"
+       y="444.64307"
+       id="text3075-6"><tspan
+         sodipodi:role="line"
+         id="tspan3077-5"
+         x="28.625502"
+         y="444.64307">Why git?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="30.980381"
+       y="655.3573"
+       id="text3075-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan3077-5-8"
+         x="30.980381"
+         y="655.3573">What does it mean for me?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3146"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:cmr10;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:cmr10;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3148"><rect
+           id="rect3150"
+           width="26"
+           height="48"
+           x="64"
+           y="273.36218" /></flowRegion><flowPara
+         id="flowPara3152"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3162"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       transform="translate(-4,-26)"><flowRegion
+         id="flowRegion3164"><rect
+           id="rect3166"
+           width="655"
+           height="162"
+           x="62"
+           y="282.36218" /></flowRegion><flowPara
+         id="flowPara3168">    SVN is a good version control system (keeps track of who changed what, when), but lacks source code management (SCM) features. It works well if everyone is working independently and committing code directly to the main repository with no review.</flowPara><flowPara
+         id="flowPara3172">    Since SVN lacks features for moving code between the ``working copies'' on developer's PCs, users wishing to share code must generate a diff then email it to their collaborator, who in turn will patch their working copy. This practice loses all history of who changed what.</flowPara><flowPara
+         id="flowPara3176">    Code also cannot be moved between repositories, making difficult the establishment of an intermediate ``sandbox'' repository for code review. Such a system would require the reviewer to ``diff'' the sandbox and ``patch'' the main repository for every commit.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3162-6"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       transform="translate(-4,180)"><flowRegion
+         id="flowRegion3164-5"><rect
+           id="rect3166-6"
+           width="655"
+           height="162"
+           x="62"
+           y="282.36218" /></flowRegion><flowPara
+         id="flowPara3176-7">    git is one of many distributed version control systems, all of which have a very similar user interface. Other popular DVCSes include Bazaar, Mercurial, and Darcs.</flowPara><flowPara
+         id="flowPara3220">    git stands out for a few reasons. First, it has an excellent track record: it was developed by Linus Torvards (author of Linux) and has been used for several years for Linux kernel development. For this reason, it was designed for extremely high performance and fault-tolerance. Corruption is virtually impossible as commits are checksummed against the entire history of the project.</flowPara><flowPara
+         id="flowPara3222">    Another major advantage to git is github, an online git repository hosting service. github has developed an impressive source code management suite that makes simple the code sharing and review process that is so painful in SVN.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3162-6-4"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       transform="translate(-4,388)"><flowRegion
+         id="flowRegion3164-5-5"><rect
+           id="rect3166-6-2"
+           width="655"
+           height="162"
+           x="62"
+           y="282.36218" /></flowRegion><flowPara
+         id="flowPara3266">    For most users, moving to git and github will involve changing the commands you run to check out and commit code. A ``map'' from SVN commands to git commands is included in this document.</flowPara><flowPara
+         id="flowPara3268">    For users wishing to share code, life will be much easier. The patches and diffs of SVN are replaced with a few button clicks. Plus, history is totally preserved when sharing code.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="30.980381"
+       y="779.3573"
+       id="text3075-6-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan3077-5-8-4"
+         x="30.980381"
+         y="779.3573">What does it mean for SNO+?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3162-6-4-3"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       transform="translate(-4,512)"><flowRegion
+         id="flowRegion3164-5-5-0"><rect
+           id="rect3166-6-2-7"
+           width="654"
+           height="218"
+           x="62"
+           y="282.36218" /></flowRegion><flowPara
+         id="flowPara3268-6">    The establishment of the SNO+ Code Integrity Committee shows that SNO+ collaborators want more code oversight. With the current SVN system, the only feasilble approach to code review is to have people commit as usual, and have reviewers look at commits after the fact. This means that possibly incorrect or undocumented code is available to the collaboration for some time. Reverting commits is very difficult in SVN, especially since they can ``pile up,'' and there is no mechanism for the reviewer to discuss the problems with the developer.</flowPara><flowPara
+         id="flowPara3314">    With github, developers make changes and essentially send a request for review. The reviewer is then presented with a summary of changes and an easy way to merge them in. In case of problems, the request becomes a conversation between the developer and reviewer, a process where the developer can get feedback and change their code to meet review criteria. Since pre-commit review is so simple, it is easy to guarantee a high-quality main repository while promoting good coding practices.</flowPara></flowRoot>  </g>
+</svg>

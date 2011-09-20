@@ -6,8 +6,8 @@ Each page is an Inkscape SVG file and (Cairo) PDF copy.
 
 To assembly, use a PDF manipulation tool such as pdftk:
 
-    pdftk title.pdf intro.pdf cheatsheet.pdf gh_trac_main.pdf workflow0.pdf \
-        workflow1.pdf workflow2.pdf workflow3.pdf workflow4.pdf workflow5.pdf \
-        workflow6.pdf workflow7.pdf workflow8.pdf repos.pdf cat output \
-        github_transition.pdf
+    pdftk title.pdf intro2.pdf intro.pdf cheatsheet.pdf gh_trac_main.pdf \
+        workflow0.pdf workflow1a.pdf workflow1.pdf workflow2.pdf \
+        workflow3.pdf workflow4.pdf workflow5.pdf workflow6.pdf \
+        workflow7.pdf workflow8.pdf repos.pdf cat output github_transition.pdf
 

@@ -14,7 +14,7 @@
    id="svg3490"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="intro.svg">
   <defs
      id="defs3492">
     <inkscape:perspective
@@ -209,7 +209,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="403.4481"
-     inkscape:cy="561.70213"
+     inkscape:cy="521.70213"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -226,7 +226,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,28 +237,20 @@
     <rect
        style="opacity:0.0759494;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5096"
-       width="552.68817"
-       height="82.7957"
-       x="79.886917"
-       y="123.70598" />
+       width="596.68817"
+       height="30.7957"
+       x="19.886917"
+       y="143.70598" />
     <text
        xml:space="preserve"
        style="font-size:19.90781021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
-       x="86.653519"
-       y="144.23167"
+       x="26.653519"
+       y="164.23167"
        id="text2993"><tspan
          sodipodi:role="line"
-         x="86.653519"
-         y="144.23167"
-         id="tspan2997">git is a distributed version control system. github is an online</tspan><tspan
-         sodipodi:role="line"
-         x="86.653519"
-         y="169.11644"
-         id="tspan3007">service that provides repository hosting and a suite of source</tspan><tspan
-         sodipodi:role="line"
-         x="86.653519"
-         y="194.00121"
-         id="tspan3011">code management tools for projects that use git.</tspan></text>
+         x="26.653519"
+         y="164.23167"
+         id="tspan3011">Comparison of version control and source code management tools:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:60.65832901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
@@ -283,40 +275,40 @@
        xml:space="preserve"
        style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="28.625502"
-       y="242.49896"
+       y="222.49896"
        id="text3075"><tspan
          sodipodi:role="line"
          id="tspan3077"
          x="28.625502"
-         y="242.49896">No version control:</tspan></text>
+         y="222.49896">No version control:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="28.625502"
-       y="454.64307"
+       y="434.64307"
        id="text3075-6"><tspan
          sodipodi:role="line"
          id="tspan3077-5"
          x="28.625502"
-         y="454.64307">SVN version control:</tspan></text>
+         y="434.64307">SVN version control:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:26.28046608px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="30.980381"
-       y="675.3573"
+       y="655.3573"
        id="text3075-6-6"><tspan
          sodipodi:role="line"
          id="tspan3077-5-8"
          x="30.980381"
-         y="675.3573">git version control with github:</tspan></text>
+         y="655.3573">git version control with github:</tspan></text>
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,582.69377 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96816 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,562.69377 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96816 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602"
        sodipodi:nodetypes="cccc" />
     <g
        id="g4493"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,78.50634)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,58.50634)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431"
@@ -332,45 +324,45 @@
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135361"
-       y="269.48679"
+       y="249.48679"
        id="text2993-6"><tspan
          sodipodi:role="line"
          x="84.135361"
-         y="269.48679"
+         y="249.48679"
          id="tspan3011-4">Revision tracking: Arcane folder numbering schemes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135361"
-       y="304.71164"
+       y="284.71164"
        id="text2993-6-3"><tspan
          sodipodi:role="line"
          x="84.135361"
-         y="304.71164"
+         y="284.71164"
          id="tspan3011-4-1">Code sharing: Email, scp, snail mail printout</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135361"
-       y="339.93652"
+       y="319.93652"
        id="text2993-6-3-4"><tspan
          sodipodi:role="line"
          x="84.135361"
-         y="339.93652"
+         y="319.93652"
          id="tspan3011-4-1-9">Collaborative development tools: Email/Gchat</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135361"
-       y="375.16141"
+       y="355.16141"
        id="text2993-6-3-4-2"><tspan
          sodipodi:role="line"
          x="84.135361"
-         y="375.16141"
+         y="355.16141"
          id="tspan3011-4-1-9-0">Bug tracking: Email, sticky notes</tspan></text>
     <g
        id="g4493-6"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,113.73122)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,93.73122)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-8"
@@ -384,7 +376,7 @@
     </g>
     <g
        id="g4493-66"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,148.95609)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,128.95609)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-4"
@@ -398,7 +390,7 @@
     </g>
     <g
        id="g4493-4"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,184.18097)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,164.18097)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-87"
@@ -414,45 +406,45 @@
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="484.35852"
+       y="464.35852"
        id="text2993-6-2"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="484.35852"
+         y="464.35852"
          id="tspan3011-4-2">Revision tracking: Snapshots of code numbered sequentially</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="519.58337"
+       y="499.58337"
        id="text2993-6-3-6"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="519.58337"
+         y="499.58337"
          id="tspan3011-4-1-1">Code sharing: Email, scp, ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="554.80829"
+       y="534.80829"
        id="text2993-6-3-4-0"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="554.80829"
+         y="534.80829"
          id="tspan3011-4-1-9-6">Collaborative development tools: email/Gchat</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="590.03314"
+       y="570.03314"
        id="text2993-6-3-4-2-1"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="590.03314"
+         y="570.03314"
          id="tspan3011-4-1-9-0-5">Bug tracking: Trac tickets</tspan></text>
     <g
        id="g4493-6-9"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,328.60296)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,308.60296)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-8-4"
@@ -466,7 +458,7 @@
     </g>
     <g
        id="g4493-66-0"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,363.82783)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,343.82783)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-4-9"
@@ -480,71 +472,71 @@
     </g>
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,820.93919 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,800.93919 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602-1"
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="704.99152"
+       y="684.99152"
        id="text2993-6-2-5"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="704.99152"
+         y="684.99152"
          id="tspan3011-4-2-9">Revision tracking: changesets numbered, can be exchanged between</tspan><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="726.90558"
+         y="706.90558"
          id="tspan4849">                         repositories, picked and chosen individually</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="757.8288"
+       y="737.8288"
        id="text2993-6-3-6-7"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="757.8288"
-         id="tspan3011-4-1-1-7">Code sharing: git push/pull (pull requests)</tspan></text>
+         y="737.8288"
+         id="tspan3011-4-1-1-7">Code sharing: github Pull Requests and Fork Queue</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="793.05371"
+       y="773.05371"
        id="text2993-6-3-4-0-6"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="793.05371"
+         y="773.05371"
          id="tspan3011-4-1-9-6-7">Collaborative development tools: github code commenting system</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="828.27856"
+       y="808.27856"
        id="text2993-6-3-4-2-1-3"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="828.27856"
+         y="808.27856"
          id="tspan3011-4-1-9-0-5-6">Bug tracking: github Issues</tspan></text>
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,697.65213 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,677.65213 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602-1-1"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,785.71431 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,765.71431 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602-1-2"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,750.48944 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,730.48944 c 1.093342,1.78277 4.911011,5.12672 5.683927,6.73124 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.81389 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602-1-3"
        sodipodi:nodetypes="cccc" />
     <g
        id="g4998"
-       transform="matrix(0.88062188,0,0,0.88062188,-9.7306603,53.72232)">
+       transform="matrix(0.88062188,0,0,0.88062188,-9.7306603,33.72232)">
       <path
          sodipodi:nodetypes="cccc"
          id="path3602-8"
@@ -559,15 +551,15 @@
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="410.38626"
+       y="390.38626"
        id="text2993-6-3-4-2-5"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="410.38626"
+         y="390.38626"
          id="tspan3011-4-1-9-0-0">Repository backup: None, probably</tspan></text>
     <g
        id="g4493-4-9"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,219.40584)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,199.40584)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-87-6"
@@ -583,30 +575,30 @@
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="625.258"
+       y="605.258"
        id="text2993-6-3-4-2-1-6"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="625.258"
+         y="605.258"
          id="tspan3011-4-1-9-0-5-1">Repository backup: Do it yourself</tspan></text>
     <path
        style="fill:none;stroke:#00b400;stroke-width:4.31623363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 52.764722,856.16406 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
+       d="m 52.764722,836.16406 c 1.093342,1.78278 4.911011,5.12673 5.683927,6.73125 3.301241,-4.56928 4.476051,-4.96817 8.53751,-8.8139 4.650892,-4.28996 7.108685,-5.60442 9.07491,-6.6826"
        id="path3602-1-15"
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-size:17.53125381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="84.135368"
-       y="863.50342"
+       y="843.50342"
        id="text2993-6-3-4-2-1-3-9"><tspan
          sodipodi:role="line"
          x="84.135368"
-         y="863.50342"
+         y="843.50342"
          id="tspan3011-4-1-9-0-5-6-8">Repository backup: automatic with github</tspan></text>
     <g
        id="g4493-66-0-4"
-       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,434.27758)">
+       transform="matrix(0.44854157,0,0,0.44854157,-64.784742,414.27758)">
       <path
          sodipodi:nodetypes="cc"
          id="path4431-4-9-8"
@@ -624,28 +616,28 @@
        width="618.68817"
        height="107.7957"
        x="64.886917"
-       y="900.70599" />
+       y="890.70599" />
     <text
        xml:space="preserve"
        style="font-size:19.90781021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
        x="374.6535"
-       y="921.23169"
+       y="911.23169"
        id="text2993-3"><tspan
          sodipodi:role="line"
          x="374.6535"
-         y="921.23169"
+         y="911.23169"
          id="tspan5161">In SVN, there is one repository and users have ``working copies''</tspan><tspan
          sodipodi:role="line"
          x="374.6535"
-         y="946.11646"
+         y="936.11646"
          id="tspan5175">between which there is no way to share patches. With git, everything</tspan><tspan
          sodipodi:role="line"
          x="374.65347"
-         y="971.00122"
+         y="961.00122"
          id="tspan5177">is a repository and code is easily shared between peers. Individual</tspan><tspan
          sodipodi:role="line"
          x="374.6535"
-         y="995.88599"
+         y="985.88599"
          id="tspan5195">commits can be pushed and pulled from one repository to another.</tspan></text>
   </g>
 </svg>
