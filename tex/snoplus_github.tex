@@ -71,7 +71,7 @@ If you followed the steps above but now wish to start contributing code, do not 
 \item Create your own fork of RAT, following the steps in Section \ref{create-fork}
 \item Tell your local repo about your fork (you can call it anything you want):
 \begin{verbatim}
-  $ git remote add fork git@github.com:[your-username]/rat
+  $ git remote add fork git@github.com:[your-username]/rat.git
 \end{verbatim}
 \item You can now push commits to your fork using {\tt git push fork}. See Section \ref{patterns} for what to do next.
 \end{enumerate}
@@ -125,10 +125,10 @@ Branches are very easy to create and use in git:
 \item[{\tt git merge [branch-name]}] Merge changes from another branch onto your current one
 \item[{\tt git push origin [branch-name]}] Push a branch into a remote repository (push doesn't do this by default)
 \end{description}
-Branches are great for playing around with new ideas or workingn on code you don't want messing up the main development path.
+Branches are great for playing around with new ideas or working on code you don't want messing up the main development path.
 
 \subsubsection{Continuous Integration}
-``Continuous Integration'' refers to coding practices where code quality is checked as often as possible. The \href{http://ratbuild.hep.upenn.edu/snoplus/build}{automatic build testing system} tests every commit to RAT, and developers are encouraged to use the {\tt ratci} tool packaged with RAT to run build tests often, as well.
+``Continuous Integration'' refers to coding practices where code quality is checked as often as possible. In keeping with this philosophy, the \href{http://ratbuild.hep.upenn.edu/snoplus/build}{automatic build testing system} tests every commit to RAT. Developers are encouraged to use the {\tt ratci} tool packaged with RAT to run build tests often, as well.
 
 Another CI tip that will make everyone's life easier is to synchronize your fork with the main RAT repository very often (daily). It is much easier to resolve a few small conflicts as they arise than to try to merge a huge set of commits littered with conflicting code.
 
