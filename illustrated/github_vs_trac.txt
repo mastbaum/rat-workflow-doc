@@ -1,0 +1,27 @@
+<h1>git+github vs git+Trac</h1>
+
+<table border>
+<tr>
+ <th></th>
+ <th>github</th>
+ <th>git+Trac</th>
+</tr>
+<tr>
+ <th>Configuration</th>
+ <td>None</td>
+ <td>Find or set up server on site, install git, create accounts for all contributors</td>
+</tr>
+<tr>
+ <th>Read-only checkout</th>
+ <td><tt>$ git clone http://github.com/cenpa/rat</tt></td>
+ <td><tt>$ git clone http://snolab.ca/rat</tt></td>
+</tr>
+<tr>
+ <th>Developer Forks</th>
+ <td>Press 'fork' button</td>
+ <td>Users log into server, clone master repo locally with <tt>git clone</tt>
+</tr>
+
+
+
+</table>
