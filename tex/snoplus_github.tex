@@ -10,9 +10,9 @@
 \maketitle
 \tableofcontents
 \section{Introduction}
-The SNO+ code repository will soon move from an SVN repository hosted at SNOLAB to a git repository hosted by \href{http://github.com}{github.com}. The transition was proposed by the Code Integrity Committee in November 2011, approved by the SNO+ board in January 2012, and will occur in early March 2012.
+In February 2012, the SNO+ code repository moved from an SVN repository hosted at SNOLAB to a git repository hosted by \href{http://github.com}{github.com}. The transition was proposed by the Code Integrity Committee in November 2011 and approved by the SNO+ board in January 2012.
 
-Using git and github will make it easier to share code and allow review to happen before code is committed to the main repository, ensuring that a high-quality code base is always available to collaborators. This document briefly outlines the motivations for the transition, explains the differences between git and SVN, and provides a walk-through of typical developer workflow. A ``cheat sheet'' suitable for hanging near a computer is attached at the end.
+Using git and github makes it easier to share code and allows review to happen before code is committed to the main repository, ensuring that a high-quality code base is always available to collaborators. This document briefly outlines the motivations for the transition, explains the differences between git and SVN, and provides a walk-through of typical developer workflow. A ``cheat sheet'' suitable for hanging near a computer is attached at the end.
 \subsection{What is git?}
 \href{http://git-scm.com}{git} is a distributed version control system, originally developed by Linus Torvalds and used for Linux kernel development. Now, it is used by such prominent projects as Perl, Gnome, Android, X11, and SNO+ RAT.
 
@@ -26,15 +26,16 @@ The most important github feature for SNO+ is the Pull Request system, the mecha
 
 github also offers advanced project management tools, including an excellent bug tracking system that integrates with release management, which replace and improve upon the tools in Trac.
 \section{User's Guide}
-This section explains what to do if you want to {\it use} RAT, but not make changes (yet).
+This section explains what to do if you want to {\it use} RAT, but not make changes (yet). If you plan to {\it develop} new features for RAT, skip ahead to Section \ref{devguide}.
 \subsection{Getting started with github}
 \label{get-started}
 Before you can see the code, you'll need to be added as a member of the SNO+ organization on github, \href{http://github.com/snoplus}{snoplus}.
 \begin{enumerate}
 \item Make yourself a free account here: \href{https://github.com/signup/free}{https://github.com/signup/free}
-\item Send a message to \href{https://github.com/mastbaum}{mastbaum} asking to be added: \href{https://github.com/inbox/new}{https://github.com/inbox/new}
-\item Once you're added to the snoplus organization, you should be able to see the private repositories at \href{http://github.com/snoplus}{github.com/snoplus}.
+\item Send a message to the CIC (\href{mailto:snopluscode@snolab.ca}{snopluscode@snolab.ca}) asking to be added to the SNO+ organization
+\item Once you've been added, you should be able to see the private repositories at \href{http://github.com/snoplus}{github.com/snoplus}.
 \end{enumerate}
+
 \subsection{Getting the code}
 Like with SVN, getting RAT is a one-liner:
 \begin{verbatim}
@@ -47,10 +48,12 @@ The documentation is in a separate repository. To get the documentation, run:
   $ git clone git@github.com:snoplus/rat-doc.git
 \end{verbatim}
 
+Viewable documentation, re-built after every change, is available \href{http://ratbuild.hep.upenn.edu/snoplus/doc}{here}.
+
 You can think of {\tt git clone} as similar to {\tt svn co}, but there is an important difference: you are getting the entire repository, history and all.
 
 \subsection{Checking out an old revision}
-You already have the entire history on your computer (you can check out any revision while on a plane!). Run {\tt git checkout} to get to another revision:
+You already have the entire history on your computer, so you can check out any revision even while on a plane! Run {\tt git checkout} to get to another revision:
 \begin{verbatim}
   $ git checkout [revision id]
 \end{verbatim}
@@ -71,12 +74,14 @@ If you followed the steps above but now wish to start contributing code, do not 
 \item Create your own fork of RAT, following the steps in Section \ref{create-fork}
 \item Tell your local repo about your fork (you can call it anything you want):
 \begin{verbatim}
-  $ git remote add fork git@github.com:[your-username]/rat.git
+  $ git remote rename origin snoplus
+  $ git remote add origin git@github.com:[your-username]/rat.git
 \end{verbatim}
-\item You can now push commits to your fork using {\tt git push fork}. See Section \ref{patterns} for what to do next.
+\item You can now push commits to your fork using {\tt git push} and pull changes from the main SNO+ repository using {\tt git pull snoplus}. See Section \ref{patterns} for what to do next.
 \end{enumerate}
 
 \section{Developer's Guide}
+\label{devguide}
 This sections explains how to change or contribute code. If you haven't already, get set up with an account as described in Section \ref{get-started}.
 \subsection{Create a fork}
 \label{create-fork}
@@ -113,6 +118,8 @@ To commit changes, run  {\tt git commit -a}.\\
 
 To push your changes to your fork on github, run {\tt git push}. You don't need to do this after every commit, but push often.\\
 
+{\tt git commit -a} commits {\it all} the outstanding changes shown by {\tt git status}. To instead commit individual files, use {\tt git commit file1 [file2 ...]}.\\
+
 {\tt git commit} will pop open your system's default editor so you can enter a commit message. To change the editor, set the {\tt EDITOR} environment variable, e.g. {\tt \$ export EDITOR=vim}. For a short message, you can also do {\tt \$ git commit -am "message here"}.
 
 \subsubsection{Branches}
@@ -123,21 +130,21 @@ Branches are very easy to create and use in git:
 \item[{\tt git branch -D [branch-name]}] Delete a branch
 \item[{\tt git checkout [branch-name]}] Switch to another branch
 \item[{\tt git merge [branch-name]}] Merge changes from another branch onto your current one
-\item[{\tt git push origin [branch-name]}] Push a branch into a remote repository (push doesn't do this by default)
+\item[{\tt git push origin [branch-name]}] Push a branch into the remote repository named ``origin'' (push doesn't do this by default)
 \end{description}
 Branches are great for playing around with new ideas or working on code you don't want messing up the main development path.
 
 \subsubsection{Continuous Integration}
-``Continuous Integration'' refers to coding practices where code quality is checked as often as possible. In keeping with this philosophy, the \href{http://ratbuild.hep.upenn.edu/snoplus/build}{automatic build testing system} tests every commit to RAT. Developers are encouraged to use the {\tt ratci} tool packaged with RAT to run build tests often, as well.
+``Continuous Integration'' refers to coding practices where code quality is checked as often as possible. In keeping with this philosophy, the \href{http://ratbuild.hep.upenn.edu/snoplus/build}{automatic build testing system} tests every push to the main RAT repository. Developers are encouraged to use the {\tt ratci} tool packaged with RAT to run build tests often, as well. To run a build test on your fork, simply run {\tt ratci -m "message"}.
 
 Another CI tip that will make everyone's life easier is to synchronize your fork with the main RAT repository very often (daily). It is much easier to resolve a few small conflicts as they arise than to try to merge a huge set of commits littered with conflicting code.
 
-To keep your fork up to date, you can pull down changes from the main RAT repository. First, you first have to tell git where this is: {\tt \$ git remote add main git@github.com:snoplus/rat}. You only need to do this once.
+To keep your fork up to date, you can pull down changes from the main RAT repository. First, you first have to tell git where this is: {\tt \$ git remote add snoplus git@github.com:snoplus/rat}. You only need to do this once.
 
 Then, to pull in changes (approximately daily):
 \begin{verbatim}
-  $ git fetch main         # grab snoplus/rat from github
-  $ git merge main/master  # merge snoplus/rat's master branch into yours
+  $ git fetch snoplus         # grab snoplus/rat from github
+  $ git merge snoplus/master  # merge snoplus/rat's master branch into yours
 \end{verbatim}
 git will automatically resolve conflicts if possible. If there are any conflicts it can't handle, it will ask you what to do. Once it's all merged, run {\tt git push} to ship it off to github.\\
 
@@ -154,7 +161,7 @@ At last, the feature is done, the bug is fixed, the document is documented; you'
 
 To send off your changes, click the ``Pull Request'' button at the upper right corner of your fork's repository page on github. On the Pull Request page, you can review your changes (as commits and the overall diff), and can optionally change which commits are included. In most cases, defaults are fine -- just enter a title and description describing your changes and click ``Send pull request.'' If you're working on RAT, please include in your request a link to successful {\tt ratci} results.\\
 
-This will notify an administrator of the snoplus repository, who will take a look over the changes. If anything's amiss, such as missing documentation, the reviewer will make a comment, and you can add commits to address any issues. The pull request page can become a conversation about the changes, where people can make comments on individual commits, lines, or blocks of code, eliminating the cumbersome review-via-email process.
+This will notify an administrator of the snoplus repository, who will take a look over the changes. If anything's amiss, such as missing documentation, the reviewer will make a comment, and you can add commits to address any issues. The pull request page becomes a conversation about the changes, where people can make comments on individual commits, lines, or blocks of code, eliminating the cumbersome review-via-email process.
 
 \section{git and github Resources}
 A few of the great resources for getting acquainted with git:
