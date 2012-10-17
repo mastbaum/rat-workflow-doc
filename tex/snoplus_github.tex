@@ -32,12 +32,19 @@ This section explains what to do if you want to {\it use} RAT, but not make chan
 Before you can see the code, you'll need to be added as a member of the SNO+ organization on github, \href{http://github.com/snoplus}{snoplus}.
 \begin{enumerate}
 \item Make yourself a free account here: \href{https://github.com/signup/free}{https://github.com/signup/free}
-\item Send a message to the CIC (\href{mailto:snopluscode@snolab.ca}{snopluscode@snolab.ca}) asking to be added to the SNO+ organization
+\item Send a message to the CIC (\href{mailto:snopluscode@snolab.ca}{snopluscode@snolab.ca}) asking to be added to the SNO+ organization. Be sure to include your name, institutional affiliation (e.g. ``summer student at SNOLAB''), and github username.
 \item Once you've been added, you should be able to see the private repositories at \href{http://github.com/snoplus}{github.com/snoplus}.
 \end{enumerate}
 
+\subsubsection{Authentication}
+Now you can browse the code on github, authenticating using your username and password. To access the code via the command line, e.g. to clone it, your git client will need to authenticate with github, which is best done with SSH keys.
+
+If you are familiar with SSH keys and already have one, just to \href{https://github.com/settings/ssh}{https://github.com/settings/ssh}, click ``Add SSH Key'', and paste in your public key.
+
+Otherwise, github has a quick tutorial on how to set this up: \href{https://help.github.com/articles/generating-ssh-keys}{https://help.github.com/articles/generating-ssh-keys}.
+
 \subsection{Getting the code}
-Like with SVN, getting RAT is a one-liner:
+Once SSH keys are set up, getting RAT is a one-liner:
 \begin{verbatim}
   $ git clone git@github.com:snoplus/rat.git
 \end{verbatim}
